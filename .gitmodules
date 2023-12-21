@@ -1,3 +1,6 @@
 [submodule "BasicCalculator"]
 	path = BasicCalculator
 	url = https://github.com/atheo810/python-basic-calculator.git
+[submodule "EmailSlicer"]
+	path = EmailSlicer
+	url = https://github.com/atheo810/Email-Slicer.git
