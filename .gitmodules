@@ -1,0 +1,3 @@
+[submodule "BasicCalculator"]
+	path = BasicCalculator
+	url = https://github.com/atheo810/python-basic-calculator.git
