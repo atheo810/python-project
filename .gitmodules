@@ -4,3 +4,6 @@
 [submodule "EmailSlicer"]
 	path = EmailSlicer
 	url = https://github.com/atheo810/Email-Slicer.git
+[submodule "QuizProgram"]
+	path = QuizProgram
+	url = https://github.com/atheo810/QuizProgram.git
